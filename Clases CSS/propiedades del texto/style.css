@@ -1,0 +1,21 @@
+p {
+    color: gray;
+    font-family: 'Times New Roman', Gerogia, Arial, ;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: justify;
+    text-align: center;    
+    line-height: 2;
+    letter-spacing: 5px;
+    text-transform: capitalize
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+span {
+    text-decoration: underline;
+    color: cyan;
+}
