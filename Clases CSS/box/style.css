@@ -1,0 +1,21 @@
+.box {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.box-first {
+    padding: 15px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.box-second {
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+
