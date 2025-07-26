@@ -1,0 +1,56 @@
+p {
+    border: 10px solid orange;
+    border-radius: 0 20px;
+    text-align: center;
+    margin: 5%;
+    padding: 12px 0;
+    background-color:bisque;
+    font-family: Arial;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 10px;
+}
+
+input {
+    border: none;
+    border-bottom: 3px solid gold;
+    border-radius: 5px;
+    background: none;
+    color:gold;
+    margin: 10px;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    font-family: 'Times New Roman'; 
+    letter-spacing: 5px;
+    margin: 0;
+    padding: 30px 0 0 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: lightcoral;
+    margin: 10px;
+}
+
+.box-first {
+    padding: 30px;
+    margin: 10px;
+    border: 10px solid black;
+    border-radius: 10px;
+}
+
+.box-second {
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 10px solid black;
+    padding: 30px;
+}
+
+body {
+    margin: 0;
+}
