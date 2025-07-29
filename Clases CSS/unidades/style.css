@@ -1,0 +1,39 @@
+div {
+    background-color: #4dd;
+    border-left: 5px solid #4aa;
+    text-align: left;
+    font-size: 40px;
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 1em;
+    letter-spacing: 2px;
+    background-color: #4a9;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 20px;
+    letter-spacing: 10px;
+    margin: 10px;
+    padding-top: 0;
+    line-height: 2ch;
+}
+
+body {
+    background-color: #4da;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+}
