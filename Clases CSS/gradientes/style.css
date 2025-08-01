@@ -1,0 +1,31 @@
+.gradientes_efectos {
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(#4bb 80%, transparent 30%, #4dd);
+    margin: auto;
+    border-radius: 20px;
+    border-top: 5px solid #4dda;
+    border-left: 5px solid #4dda;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    font-family: Monospace;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+
+body {
+    background-color: #4ab;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+    text-transform: lowercase;
+    font-family: Monospace, Fantasy;
+    letter-spacing: 2px;
+    color: #000a;
+}

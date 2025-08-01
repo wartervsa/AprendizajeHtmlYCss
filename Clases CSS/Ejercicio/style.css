@@ -1,27 +1,53 @@
-.tarjeta {
-    background-color:cornflowerblue;
+.card_box {
+    background-color: rgba(11, 230, 120, 0.781);
+    width: 300px;
+    height: 600px;
     margin: auto;
-    width: 25%;
-    padding: 10px 10px 30px 10px;;
-}
-
-.encabezado {
-    text-transform: uppercase;
-    background-color:darkcyan;
-    padding: 10px;
-    margin: 0; ;
-    letter-spacing: 3.5px;
+    margin-top: 20px;
+    padding: 0 20px;
+    border-radius: 10px;
     text-align: center;
+    box-shadow: 0 0 20px 10px #222;
+    box-sizing: border-box;
+    margin-bottom: 35px;
 }
 
-p {
-    text-align: justify;
-    line-height: 1.5;
-    letter-spacing: 1.5px;
-    margin: 0 10px;
+img {
+    margin: auto;
+    border-radius: 50%;
+    width: 75%;
+    margin-top: 10px;
+    filter: drop-shadow(0 0 10px #333);
+
+}
+.card_title {
+    font-family: Monospace;
+    letter-spacing: 2px;
+    font-size: 25px;
+    margin: 0;
+    text-shadow: 0 0 5px #555;
 }
 
-body {
-    background-color:blueviolet;
+.card_subtitle {
+    font-family: Monospace;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 7px #333;
 }
 
+.card_content {
+    font-family: Monospace;
+    letter-spacing: 1.3px;
+    text-shadow: 1px 1px 5px #333;
+    font-size: 0.9em;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.card_red {
+    background-color: rgba(212, 64, 37, 0.568)
+}
+
+.card_blue {
+    background-color: rgba(69, 17, 214, 0.822);
+}
