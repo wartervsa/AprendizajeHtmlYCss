@@ -38,7 +38,7 @@ img {
 .card_content {
     font-family: Monospace;
     letter-spacing: 1.3px;
-    text-shadow: 1px 1px 5px #333;
+    text-shadow: 5px 5px 3px #333;
     font-size: 0.9em;
     box-sizing: border-box;
     margin: auto;
